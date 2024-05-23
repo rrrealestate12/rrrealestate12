@@ -1,5 +1,5 @@
-:point_right: Shadnagar
+:earth_asia: Location Highlights
 
-:point_right: Bengulore Highway
+:house_with_garden: Bengulore Highway
 
 :point_right: 
